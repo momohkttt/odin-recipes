@@ -1,0 +1,23 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    background-color: orange;
+}
+
+.odd, .even {
+    font-size: 24px;
+    color: black;
+
+}
+
+.even {
+    
+    background-color: gainsboro;
+    
+}
+
+.odd {
+    background-color: bisque;
+}
