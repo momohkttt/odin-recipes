@@ -1,0 +1,45 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+.recipes {
+    color: rgb(97, 33, 26);
+    background-color:rgb(199, 184, 184);
+    border:burlywood solid 1px;
+    padding: 16px;
+    display:block;
+    margin-bottom: 16px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    margin-bottom: 16px;
+}
+
+.recipe-card {
+    width: 500px;
+    text-align: center;
+    margin: auto;
+}
+
+img {
+    width: 400px;
+    height: auto;
+    margin: auto;
+    display: block;
+}
+
+div {
+    padding: 24px;
+}
